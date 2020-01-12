@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1578853008 source:d:\data-structures-and-algorithm-with-c-plus-plus\priority queue\main.cpp
+	<iostream>
+	"PriorityQueue.h"
+	"PriorityQueue.cpp"
+	"HeapType.h"
+	"HeapType.cpp"
+
+1578852411 source:d:\data-structures-and-algorithm-with-c-plus-plus\priority queue\heaptype.cpp
+	"HeapType.h"
+
+1578848332 d:\data-structures-and-algorithm-with-c-plus-plus\priority queue\heaptype.h
+
+1578852212 source:d:\data-structures-and-algorithm-with-c-plus-plus\priority queue\priorityqueue.cpp
+	"PriorityQueue.h"
+	"HeapType.h"
+
+1578849117 d:\data-structures-and-algorithm-with-c-plus-plus\priority queue\priorityqueue.h
+	"HeapType.h"
+
+1578852212 d:\data-structures-and-algorithm-with-c-plus-plus\priority queue\priorityqueue.cpp
+	"PriorityQueue.h"
+	"HeapType.h"
+
+1578852411 d:\data-structures-and-algorithm-with-c-plus-plus\priority queue\heaptype.cpp
+	"HeapType.h"
+

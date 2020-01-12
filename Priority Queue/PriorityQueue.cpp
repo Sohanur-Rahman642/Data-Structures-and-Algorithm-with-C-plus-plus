@@ -60,7 +60,7 @@ void PriorityQueue<ItemType>::DeQueue(ItemType& item)
         throw EmptyQueue();
     else
     {
-        item  = items.elements[0];
+        item  =items.elements[0];
         items.elements[0] = items.elements[length-1];
         length--;
         items.ReheapDown(0,length-1);
